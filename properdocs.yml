@@ -5,8 +5,5 @@ site_author: Daniel Godoy
 docs_dir: docs
 site_dir: site
 
-theme:
-  name: properdocs
-
 nav:
   - Inicio: index.md
